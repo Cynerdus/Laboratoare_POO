@@ -18,8 +18,8 @@ public class Polygon {
     public Polygon(float[] _points) {
         this(_points.length / 2);
 
-        for (int i = 0; i < edgeNumber; i++) {
-            points.get(i).changeCoords(_points[i], _points[i + 1]);
+        for (int i = 0; i < edgeNumber * 2; i += 2) {
+            points.get(i / 2).changeCoords(_points[i], _points[i + 1]);
         }
     }
 
