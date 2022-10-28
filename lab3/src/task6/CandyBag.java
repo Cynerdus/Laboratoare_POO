@@ -1,8 +1,7 @@
-package task5;
+package task6;
 
 import java.util.ArrayList;
 import java.util.List;
-
 public class CandyBag {
     private List<CandyBox> candies;
 
