@@ -1,7 +1,5 @@
 package task3;
 
-import task2.CandyBox;
-
 public class ChocAmor extends CandyBox {
     private float length;
 

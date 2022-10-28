@@ -1,7 +1,4 @@
 package task3;
-
-import task2.CandyBox;
-
 import java.util.Objects;
 
 public class Lindt extends CandyBox {

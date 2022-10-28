@@ -1,7 +1,5 @@
 package task3;
 
-import task2.CandyBox;
-
 public class Baravelli extends CandyBox {
     private float radius;
     private float height;
