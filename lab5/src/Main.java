@@ -1,6 +1,7 @@
 import Task1.*;
 import Task2.*;
 import Task3.*;
+import Task4.*;
 
 import java.util.Scanner;
 
@@ -76,8 +77,6 @@ public class Main {
                 break;
 
             case 4:
-                // TODO UNCOMMENT BELLOW LINES TO TEST TASK 4
-                /*
                 Song song1 = new Song("Bad", 101, "Michael Jackson");
                 Song song2 = new Song("Dangerous", 19, "Michael Jackson");
                 Song song3 = new Song("Heal the world", 53, "Composer");
@@ -101,7 +100,7 @@ public class Main {
                 bad.addSong(song1);
                 bad.addSong(song6);
                 System.out.println(bad);
-                 */
+
                 break;
 
         }
