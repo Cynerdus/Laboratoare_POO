@@ -1,5 +1,6 @@
 import Task1.*;
 import Task2.*;
+import Task3.*;
 
 import java.util.Scanner;
 
@@ -62,8 +63,6 @@ public class Main {
                 break;
 
             case 3:
-                // TODO UNCOMMENT BELLOW LINES TO TEST TASK 3
-                /*
                 Operation op = new Operation(13);
                 op.div(0);
                 op.div(1);
@@ -74,7 +73,6 @@ public class Main {
                 System.out.println(op.getNumber());
                 op.plus(7);
                 System.out.println(op.getNumber());
-                 */
                 break;
 
             case 4:
